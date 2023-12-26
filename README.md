@@ -1,22 +1,40 @@
-# TakeAway-App
+# Takeaway App
 
-This is the TakeAway App,mainly for practicing Redux and Scss
+Welcome to the Takeaway App, a React-based application for ordering and managing takeaway items.
 
-# 安装所有依赖
+## Introduction
 
-```bash
-npm i
-```
+The Takeaway App is designed to provide a user-friendly interface for customers to browse menu items, place orders, and manage their takeaway preferences. It utilizes React for building dynamic user interfaces, Redux for state management, and SCSS for styling.
 
-# 启动 mock 接口服务
+## Features
 
-```bash
+- Browse menu items
+- Add items to the cart
+- Place and manage orders
+- Responsive design for various devices
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- SCSS (Sass)
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+# Install all dependencies
+
+npm install
+
+# Start the mock API service
+
 npm run serve
-```
 
-# 启动项目
+# Start the project
 
-```bash
 npm run start
-
-```
