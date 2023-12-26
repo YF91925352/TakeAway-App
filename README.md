@@ -1,6 +1,6 @@
 # Takeaway App
 
-Welcome to the Takeaway App, a React-based application for ordering and managing takeaway items.
+Welcome to the Takeaway App, a React-based application using Redux Toolkit to manage states and dispatch actions for ordering and managing takeaway items.
 
 ## Introduction
 
