@@ -1,4 +1,4 @@
-import './index.scss'
+import "./index.scss";
 
 const Foods = ({
   id,
@@ -11,9 +11,8 @@ const Foods = ({
   like_ratio_desc,
   price,
   tag,
-  count
+  count,
 }) => {
-
   return (
     <dd className="cate-goods">
       <div className="goods-img-wrap">
@@ -26,9 +25,9 @@ const Foods = ({
             <div className="goods-unit">{unit}</div>
             <div className="goods-detail-text">{description}</div>
           </div>
-          <div className="goods-tag">{food_tag_list.join(' ')}</div>
+          <div className="goods-tag">{food_tag_list.join(" ")}</div>
           <div className="goods-sales-volume">
-            <span className="goods-num">月售{month_saled}</span>
+            <span className="goods-num">Monthly Sales: {month_saled}</span>
             <span className="goods-num">{like_ratio_desc}</span>
           </div>
         </div>
@@ -43,7 +42,7 @@ const Foods = ({
         </div>
       </div>
     </dd>
-  )
-}
+  );
+};
 
-export default Foods
+export default Foods;
