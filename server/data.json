@@ -14,7 +14,8 @@
           "price": 90,
           "picture": "https://zqran.gitee.io/images/waimai/8078956697.jpg",
           "description": "",
-          "tag": "318569657"
+          "tag": "318569657",
+          "count": 1
         },
         {
           "id": 7384994864,
@@ -26,7 +27,8 @@
           "price": 39,
           "picture": "https://zqran.gitee.io/images/waimai/7384994864.jpg",
           "description": "",
-          "tag": "318569657"
+          "tag": "318569657",
+          "count": 1
         },
         {
           "id": 2305772036,
@@ -38,7 +40,8 @@
           "price": 34.32,
           "picture": "https://zqran.gitee.io/images/waimai/2305772036.jpg",
           "description": "Main Ingredients: Rice, Chicken Leg, Choy Sum, Carrot",
-          "tag": "318569657"
+          "tag": "318569657",
+          "count": 1
         },
         {
           "id": 2233861812,
@@ -50,7 +53,8 @@
           "price": 34.32,
           "picture": "https://zqran.gitee.io/images/waimai/2233861812.jpg",
           "description": "Sour Soup Noodles Fish: Main Ingredients - Sour Soup, Noodles. Roujiamo: Main Ingredients - White Pancake, Pork",
-          "tag": "318569657"
+          "tag": "318569657",
+          "count": 1
         }
       ]
     },
@@ -68,7 +72,8 @@
           "price": 6,
           "picture": "https://zqran.gitee.io/images/waimai/3823780596.jpg",
           "description": "1 Skewer. Vine pepper flavor, Main Ingredients: Chicken",
-          "tag": "82022594"
+          "tag": "82022594",
+          "count": 1
         },
         {
           "id": 6592009498,
@@ -80,7 +85,8 @@
           "price": 169,
           "picture": "https://zqran.gitee.io/images/waimai/6592009498.jpg",
           "description": "6-8 months old grass-fed lamb ribs, grilled to crispy skin and fragrant meat",
-          "tag": "82022594"
+          "tag": "82022594",
+          "count": 1
         }
       ]
     },
@@ -98,7 +104,8 @@
           "price": 5,
           "picture": "https://zqran.gitee.io/images/waimai/4056954171.jpg",
           "description": "Rich fragrance of Wuchang rice, soft and chewy with a satisfying bite",
-          "tag": "98147100"
+          "tag": "98147100",
+          "count": 1
         },
         {
           "id": 740430262,
@@ -110,7 +117,8 @@
           "price": 13,
           "picture": "https://zqran.gitee.io/images/waimai/740430262.jpg",
           "description": "Soft and fluffy, sweet and sour with raisins and cranberries",
-          "tag": "98147100"
+          "tag": "98147100",
+          "count": 1
         },
         {
           "id": 7466390504,
@@ -122,7 +130,8 @@
           "price": 13,
           "picture": "https://zqran.gitee.io/images/waimai/7466390504.jpg",
           "description": "",
-          "tag": "98147100"
+          "tag": "98147100",
+          "count": 1
         }
       ]
     }
