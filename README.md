@@ -1,5 +1,9 @@
 # Takeaway App
 
+### Visit App
+
+[Takeaway App](https://clone-take-away-8ikruh3k2-yf91925352.vercel.app/)
+
 Welcome to the Takeaway App, a React-based application using Redux Toolkit to manage states and dispatch actions for ordering and managing takeaway items.
 
 ## Introduction
