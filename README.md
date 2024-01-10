@@ -9,7 +9,11 @@ Welcome to the Takeaway App, a React-based application using Redux Toolkit to ma
 ## Introduction
 
 The Takeaway App is designed to provide a user-friendly interface for customers to browse menu items, place orders, and manage their takeaway preferences. It utilizes React for building dynamic user interfaces, Redux for state management, and SCSS for styling.
+
+## Overview
+
 ![ezgif com-video-to-gif-converter](https://github.com/YF91925352/TakeAway-App/assets/113684176/3a4e94d7-03c8-4824-a8c9-6cd23e8a36f7)
+
 ## Features
 
 - Browse menu items
