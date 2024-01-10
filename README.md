@@ -12,7 +12,7 @@ The Takeaway App is designed to provide a user-friendly interface for customers 
 
 ## Overview
 
-![ezgif com-video-to-gif-converter](https://github.com/YF91925352/TakeAway-App/assets/113684176/3a4e94d7-03c8-4824-a8c9-6cd23e8a36f7)
+![ScreenRecording2024-01-10at15 37 45-ezgif com-video-to-gif-converter (1)](https://github.com/YF91925352/TakeAway-App/assets/113684176/9e9c8aac-1ac9-47d3-aaa6-fa7172f2748a)
 
 ## Features
 
