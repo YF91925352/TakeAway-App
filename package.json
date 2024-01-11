@@ -20,7 +20,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "serve": "json-server server/data.json --port 3004"
+    "serve": "json-server server/data.json --port 3004",
+    "dev": "npm run start & npm run serve"
   },
   "eslintConfig": {
     "extends": [
